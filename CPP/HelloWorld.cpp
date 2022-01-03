@@ -16,7 +16,7 @@
  */
 int main() 
 { 
-    int year = 2021;
+    int year = 2022;
     std::string msg = "Hello World from C++! We are in";
     std::cout << msg << " " << year << "!" << std::endl; 
     return 0; 

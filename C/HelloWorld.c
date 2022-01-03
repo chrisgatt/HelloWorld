@@ -14,7 +14,7 @@
  */
 int main() 
 { 
-    int year = 2021;
+    int year = 2022;
     char msg[] = "Hello World from C! We are in";
     printf("%s %i!\n", msg, year);
     return 0; 
